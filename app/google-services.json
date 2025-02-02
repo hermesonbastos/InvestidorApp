@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454584855341",
+    "project_id": "investidorapp-de337",
+    "storage_bucket": "investidorapp-de337.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454584855341:android:a536c349c3f2bb8faf01a4",
+        "android_client_info": {
+          "package_name": "com.example.investidorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdlMli2pEZ3TOGG_6uVd5nR0JKDZ_8DDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
